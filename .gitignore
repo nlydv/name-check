@@ -1,0 +1,4 @@
+**/node_modules/
+.tern-project
+config.json
+data.json

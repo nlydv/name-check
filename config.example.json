@@ -1,0 +1,6 @@
+{
+    "port": 12037,
+    "host": "my.hsd.localhost",
+    "apiKey": "myHsdLocalpass",
+    "ssl": false
+}
