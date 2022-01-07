@@ -1,6 +1,6 @@
 {
   "name": "name-check",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Input a list of Handshake top-level domains, outputs names sorted into 4 arrays: available, registered, reserved, or invalid.",
   "main": "index.js",
   "scripts": {
@@ -10,12 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/nlydv/name-check.git"
   },
-  "author": "Neel Yadav",
+  "author": "Neel Yadav <mail@neelyadav.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nlydv/name-check/issues"
   },
-  "homepage": "https://github.com/nlydv/name-check#readme",
+  "homepage": "https://github.com/nlydv/name-check",
   "dependencies": {
     "hs-client": "^0.0.10"
   }
